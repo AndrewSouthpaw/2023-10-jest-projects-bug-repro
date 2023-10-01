@@ -1,26 +1,3 @@
-# Jest Vanilla JS Starter
+# Jest config + projects CLI flags bug repro
 
-## About
-
-- Create tests with extended matchers (`jest-extended`)
-- Use the latest `JavaScript` (`@babel/preset-env`)
-
-## Prerequisites
-
-- `node`
-- `yarn` (or `npm`)
-
-## Setup
-
-- Clone the repository
-- Navigate to the project directory and run:
-
-  `yarn install`
-
-- Run tests:
-
-  `yarn test` or `yarn test:watch`
-
-- Run `index.js`:
-
-  `yarn start`
+See https://github.com/jestjs/jest/issues/14586.
